@@ -1,0 +1,23 @@
+{
+  "name": "qa-engineer-assessment---automation-manual-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmahafiza/QA-Engineer-Assessment---Automation-Manual-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/salmahafiza/QA-Engineer-Assessment---Automation-Manual-Testing/issues"
+  },
+  "homepage": "https://github.com/salmahafiza/QA-Engineer-Assessment---Automation-Manual-Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.1"
+  }
+}
